@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Hasan Basri Zeytun</h1>
+<h1 align="center">Hi, I'm Hasan Basri Zeytun</h1>
 -  I’m currently learning **Artificial Neural Networks**
 
 
